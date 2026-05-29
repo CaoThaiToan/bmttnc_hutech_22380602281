@@ -72,4 +72,4 @@ while (1 == 1):
         break
     else:
         print("\nKhong co chuc nang nay!")
-        print("\nHay chon chuc nang trong hop menu.")
+        print("\nHay chon chuc nang trong hop menu.")  
